@@ -2,6 +2,13 @@ body{
     width: 90%; 
     margin-left: 5%;
     margin-right: 5%;
+    background-color: #fbe9e7;
+    background: -webkit-radial-gradient(rgb(255, 185, 237), rgb(255, 255, 255));
+    background: radial-gradient(rgb(255, 185, 237), rgb(255, 255, 255));
+    
+    
+
+
 }
 
 p {
@@ -24,12 +31,14 @@ blockquote{
    width: 50%;
    margin-left: 25%;
    margin-right: 25%;
+   padding: 30px;
    background-color:rgb(110, 116, 122);
-   border: solid 2px firebrick;
- 
-   
+   border: solid 3px firebrick;  
+   margin-top: 80px;
+   margin-bottom: 80px;
 }
- blockquote p{
+ 
+blockquote p{
      font-size: 160%;
      text-align: center;
  }
