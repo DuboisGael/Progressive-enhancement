@@ -1,0 +1,35 @@
+body{
+    width: 90%; 
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace, serif;
+    line-height: 1.5em;
+    color: #212121;
+}
+a:link{ 
+    color: #2f00ff;
+}
+
+a:visited{
+    color: #881482;
+}
+a:hover{
+    color: red;
+}
+blockquote{
+
+   width: 50%;
+   margin-left: 25%;
+   margin-right: 25%;
+   background-color:rgb(110, 116, 122);
+   border: solid 2px firebrick;
+ 
+   
+}
+ blockquote p{
+     font-size: 160%;
+     text-align: center;
+ }
