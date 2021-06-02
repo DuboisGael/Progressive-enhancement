@@ -135,3 +135,14 @@ td {
   margin-top: 4.5em;
   margin-left: 1em;
 }
+
+.notification{
+  background:#FFFFDD;
+  padding:.5rem 1rem;
+  border:3px solid #DDDDCC;
+  width:250px;
+  font-weight:bold;
+  color: #333300;
+  position: fixed;
+
+}
