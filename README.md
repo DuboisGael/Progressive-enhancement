@@ -15,7 +15,7 @@
 
 ## Screenshot
 
-<img src="./image/img.png" style="width:400px;"/>  <img src="./image/img1.png" style="width:410px;"/>
+<img src="./image/img1.png" style="width:400px;"/>  <img src="./image/img2.png" style="width:410px;"/>
 
 
 ## See the project
